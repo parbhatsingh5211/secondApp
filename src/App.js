@@ -11,7 +11,7 @@ function App() {
     }, 
     {
       id: 'P2',
-      title: 'Sirf Excel',
+      title: 'Surf Excel',
       amount: 200,
       date: new Date(2014,1,28)
     },

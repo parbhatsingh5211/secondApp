@@ -1,4 +1,5 @@
 import './App.css';
+import { NewProduct } from './Components/NewProduct';
 import {Products} from './Components/Products';
  
 function App() {
@@ -31,6 +32,7 @@ function App() {
   
   return (
     <div>
+      <NewProduct/>
       <Products items={products}/>
     </div>
   );

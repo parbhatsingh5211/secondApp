@@ -1,0 +1,9 @@
+.newProduct{
+    /* display: flex;
+    justify-content: center; */
+    margin: 20px auto;
+    padding: 10px;
+    background-color: blueviolet;
+    width: 600px;
+    border-radius: 10px;
+}

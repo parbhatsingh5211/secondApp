@@ -11,6 +11,8 @@ export const ProductItems = (props) => {
     setTitle("PopCorn");
     console.log("add to Cart");
   }
+
+  
   return (
     <Card >
       <div className='product-item'>

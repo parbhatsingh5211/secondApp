@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/secondApp/static/css/main.63f43bd4.css",
+    "main.js": "/secondApp/static/js/main.b3498fdd.js",
+    "index.html": "/secondApp/index.html",
+    "main.63f43bd4.css.map": "/secondApp/static/css/main.63f43bd4.css.map",
+    "main.b3498fdd.js.map": "/secondApp/static/js/main.b3498fdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63f43bd4.css",
+    "static/js/main.b3498fdd.js"
+  ]
+}
